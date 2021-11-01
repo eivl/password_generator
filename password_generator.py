@@ -1,6 +1,6 @@
 import random
 import string
-import tkinter as tk
+
 
 pool = string.ascii_letters + string.digits + string.punctuation
 
